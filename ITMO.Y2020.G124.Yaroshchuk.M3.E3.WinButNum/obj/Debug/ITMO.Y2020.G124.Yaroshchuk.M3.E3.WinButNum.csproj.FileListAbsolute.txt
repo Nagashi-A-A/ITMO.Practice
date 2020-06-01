@@ -16,3 +16,4 @@ D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum\o
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum.csproj.CoreCompileInputs.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum.csprojAssemblyReference.cache

@@ -22,7 +22,6 @@ D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E3.Owner\obj\D
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E6.Owner\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E6.Owner.exe.config
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E6.Owner\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E6.Owner.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E6.Owner\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E6.Owner.pdb
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E6.Owner\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E6.Owner.csprojAssemblyReference.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E6.Owner\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E3.Owner.MainForm.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E6.Owner\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E6.Owner.Properties.Resources.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E6.Owner\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E3.Owner.SecondForm.resources

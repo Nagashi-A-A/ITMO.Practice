@@ -16,3 +16,4 @@ D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\D
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.csproj.CoreCompileInputs.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.csprojAssemblyReference.cache

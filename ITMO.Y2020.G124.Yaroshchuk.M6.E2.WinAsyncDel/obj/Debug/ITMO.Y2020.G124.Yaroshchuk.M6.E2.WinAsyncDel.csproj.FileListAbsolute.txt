@@ -17,3 +17,4 @@ D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.csproj.CoreCompileInputs.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.csprojAssemblyReference.cache

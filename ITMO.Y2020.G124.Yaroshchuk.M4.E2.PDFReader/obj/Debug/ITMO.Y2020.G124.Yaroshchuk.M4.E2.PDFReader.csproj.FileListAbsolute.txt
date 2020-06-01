@@ -3,7 +3,6 @@ D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader\b
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader.pdb
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader\bin\Debug\Interop.AcroPDFLib.dll
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader\bin\Debug\AxInterop.AcroPDFLib.dll
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader.csprojAssemblyReference.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader\obj\Debug\Interop.AcroPDFLib.dll
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader\obj\Debug\AxInterop.AcroPDFLib.dll
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader.csproj.ResolveComReference.cache

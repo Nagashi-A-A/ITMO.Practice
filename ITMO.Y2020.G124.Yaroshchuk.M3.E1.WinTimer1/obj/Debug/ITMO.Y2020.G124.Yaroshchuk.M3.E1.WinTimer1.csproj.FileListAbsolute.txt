@@ -18,4 +18,3 @@ D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E1.WinTimer1\o
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E1.WinTimer1\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E1.WinTimer1.csproj.CoreCompileInputs.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E1.WinTimer1\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E1.WinTimer1.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E1.WinTimer1\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E1.WinTimer1.pdb
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E1.WinTimer1\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E1.WinTimer1.csprojAssemblyReference.cache

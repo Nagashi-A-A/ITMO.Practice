@@ -16,4 +16,3 @@ D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.csproj.CoreCompileInputs.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.pdb
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.csprojAssemblyReference.cache

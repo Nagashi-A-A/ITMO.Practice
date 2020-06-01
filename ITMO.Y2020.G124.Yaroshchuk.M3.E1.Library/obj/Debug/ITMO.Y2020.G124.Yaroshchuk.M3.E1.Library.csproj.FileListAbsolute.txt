@@ -12,4 +12,3 @@ D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E1.Library\obj
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E1.Library\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E1.Library.csproj.CoreCompileInputs.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E1.Library\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E1.Library.dll
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E1.Library\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E1.Library.pdb
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E1.Library\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E1.Library.csprojAssemblyReference.cache

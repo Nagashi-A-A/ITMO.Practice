@@ -17,4 +17,3 @@ D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\o
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape.csproj.CoreCompileInputs.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.pdb
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape.csprojAssemblyReference.cache

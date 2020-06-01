@@ -16,4 +16,3 @@ D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E1.BkGrWorker\
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E1.BkGrWorker\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E1.BkGrWorker.csproj.CoreCompileInputs.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E1.BkGrWorker\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E1.BkGrWorker.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E1.BkGrWorker\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E1.BkGrWorker.pdb
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E1.BkGrWorker\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E1.BkGrWorker.csprojAssemblyReference.cache

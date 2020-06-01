@@ -7,3 +7,12 @@ D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Ya
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.csproj.CoreCompileInputs.cache
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.exe
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.TestMainForm.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.TestExamAlgo.pdb

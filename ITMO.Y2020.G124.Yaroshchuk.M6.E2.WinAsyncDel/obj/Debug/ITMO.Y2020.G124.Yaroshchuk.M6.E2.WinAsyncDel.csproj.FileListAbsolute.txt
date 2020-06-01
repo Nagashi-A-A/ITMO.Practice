@@ -8,3 +8,13 @@ D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Ya
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.exe
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.pdb
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.csprojAssemblyReference.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.csprojAssemblyReference.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.FormAsyncDelegate.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E2.WinAsyncDel.pdb

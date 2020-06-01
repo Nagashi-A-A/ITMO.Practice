@@ -7,3 +7,12 @@ D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Ya
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.exe
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.pdb
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.BallForm.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.BallForm.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E2.Balls.pdb

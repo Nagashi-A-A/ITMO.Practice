@@ -8,3 +8,14 @@ D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Ya
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.exe
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.pdb
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.Form1.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.csprojAssemblyReference.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.Form1.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.UserControlTimer2.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E2.WinTimer2.pdb

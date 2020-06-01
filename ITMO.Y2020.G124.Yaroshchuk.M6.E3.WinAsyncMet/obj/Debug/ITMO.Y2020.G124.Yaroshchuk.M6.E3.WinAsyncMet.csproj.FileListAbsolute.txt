@@ -7,3 +7,12 @@ D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Ya
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet.csproj.CoreCompileInputs.cache
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet.exe
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet.AsyncMethodForm.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M6.E3.WinAsyncMet.pdb

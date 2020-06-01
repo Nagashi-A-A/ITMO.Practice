@@ -8,3 +8,13 @@ D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Ya
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.exe
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.pdb
 D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.EditForm.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.EditForm.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.Form1.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.WinGrafSinLine.pdb

@@ -10,7 +10,6 @@ D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Ya
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum.exe.config
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum.pdb
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum.csprojAssemblyReference.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum.Form1.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum.Properties.Resources.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M3.E3.WinButNum.csproj.GenerateResource.cache

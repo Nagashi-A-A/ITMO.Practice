@@ -12,7 +12,6 @@ D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Ya
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm.exe.config
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm.pdb
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm.csprojAssemblyReference.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk._5._2.RhombusForm.MainForm.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.RhombusForm.Properties.Resources.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk._5._2.RhombusForm.RhombusForm.resources

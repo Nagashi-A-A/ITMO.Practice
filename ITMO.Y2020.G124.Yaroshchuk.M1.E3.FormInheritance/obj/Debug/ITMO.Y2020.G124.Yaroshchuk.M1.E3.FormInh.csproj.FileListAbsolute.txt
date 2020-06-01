@@ -12,7 +12,6 @@ D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Ya
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E3.FormInheritance\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.exe.config
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E3.FormInheritance\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E3.FormInheritance\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.pdb
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E3.FormInheritance\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E3.FormInh.csprojAssemblyReference.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E3.FormInheritance\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.FormTriangle.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E3.FormInheritance\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.Properties.Resources.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E3.FormInheritance\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.SecondForm.resources

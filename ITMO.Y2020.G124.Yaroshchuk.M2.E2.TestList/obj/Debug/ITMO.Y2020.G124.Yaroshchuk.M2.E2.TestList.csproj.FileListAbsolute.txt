@@ -11,7 +11,6 @@ D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Ya
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList.exe.config
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList.pdb
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList.csprojAssemblyReference.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList\obj\Debug\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E2.TestList.TestList.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList.Properties.Resources.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList.csproj.GenerateResource.cache

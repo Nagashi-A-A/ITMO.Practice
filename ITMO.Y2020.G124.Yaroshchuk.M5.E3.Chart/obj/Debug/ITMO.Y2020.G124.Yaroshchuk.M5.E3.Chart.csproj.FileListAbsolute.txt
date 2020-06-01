@@ -10,7 +10,6 @@ D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Ya
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart.exe.config
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart.pdb
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart.csprojAssemblyReference.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart.ChartForm.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart.Properties.Resources.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart.csproj.GenerateResource.cache

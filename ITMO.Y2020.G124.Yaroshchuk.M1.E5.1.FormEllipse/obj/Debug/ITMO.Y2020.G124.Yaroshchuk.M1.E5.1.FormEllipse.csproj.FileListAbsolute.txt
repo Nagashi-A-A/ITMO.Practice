@@ -11,7 +11,6 @@ D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Ya
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse.exe.config
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse.pdb
-D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse.csprojAssemblyReference.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk._5._1.FormEllipse.EllipseForm.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.FormEllipse.Properties.Resources.resources
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse.csproj.GenerateResource.cache

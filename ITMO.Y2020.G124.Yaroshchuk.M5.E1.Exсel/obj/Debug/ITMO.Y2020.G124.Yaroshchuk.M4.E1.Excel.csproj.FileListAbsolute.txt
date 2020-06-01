@@ -1,0 +1,14 @@
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E1.Excel.csprojAssemblyReference.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\obj\Debug\Interop.ExcelAdaptorLib.dll
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\obj\Debug\Interop.VSTOEE100.dll
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\obj\Debug\Interop.WordAdapterLib.dll
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E1.Excel.csproj.ResolveComReference.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.ExcelFrom.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E1.Excel.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E1.Excel.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exсel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.pdb

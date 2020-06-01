@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader.Properties
+namespace ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim.Properties
 {
 
 

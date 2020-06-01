@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader")]
+[assembly: AssemblyTitle("ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader")]
+[assembly: AssemblyProduct("ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("ec82b59b-ea97-4499-afdd-34206a055dd2")]
+[assembly: Guid("acf88c07-8702-43c0-b2e7-1c86596eeefd")]
 
 // Version information for an assembly consists of the following four values:
 //

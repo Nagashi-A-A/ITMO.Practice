@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EC82B59B-EA97-4499-AFDD-34206A055DD2}</ProjectGuid>
+    <ProjectGuid>{ACF88C07-8702-43C0-B2E7-1C86596EEEFD}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader</RootNamespace>
-    <AssemblyName>ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader</AssemblyName>
+    <RootNamespace>ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim</RootNamespace>
+    <AssemblyName>ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PdfReaderMainForm.cs">
+    <Compile Include="AniMainForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PdfReaderMainForm.Designer.cs">
-      <DependentUpon>PdfReaderMainForm.cs</DependentUpon>
+    <Compile Include="AniMainForm.Designer.cs">
+      <DependentUpon>AniMainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="PdfReaderMainForm.resx">
-      <DependentUpon>PdfReaderMainForm.cs</DependentUpon>
+    <Compile Include="WinApiClass.cs" />
+    <EmbeddedResource Include="AniMainForm.resx">
+      <DependentUpon>AniMainForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -78,25 +79,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <COMReference Include="AcroPDFLib">
-      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
-      <VersionMajor>1</VersionMajor>
-      <VersionMinor>0</VersionMinor>
-      <Lcid>0</Lcid>
-      <WrapperTool>tlbimp</WrapperTool>
-      <Isolated>False</Isolated>
-      <EmbedInteropTypes>True</EmbedInteropTypes>
-    </COMReference>
-    <COMReference Include="AxAcroPDFLib">
-      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
-      <VersionMajor>1</VersionMajor>
-      <VersionMinor>0</VersionMinor>
-      <Lcid>0</Lcid>
-      <WrapperTool>aximp</WrapperTool>
-      <Isolated>False</Isolated>
-    </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

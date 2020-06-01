@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader
+namespace ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PdfReaderMainForm());
+            Application.Run(new AniMainForm());
         }
     }
 }

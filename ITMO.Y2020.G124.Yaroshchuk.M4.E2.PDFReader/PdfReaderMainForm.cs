@@ -8,13 +8,25 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ITMO.Y2020.G124.Yaroshchuk.M4.E2.PDFReader
+namespace ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader
 {
-    public partial class Form1 : Form
+    public partial class PdfReaderMainForm : Form
     {
-        public Form1()
+        public PdfReaderMainForm()
         {
             InitializeComponent();
+        }
+
+        private void openToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            openFileDialog1.Filter = "Файлы pdf|*.pdf";
+            openFileDialog1.ShowDialog();
+            axAcroPDF1.LoadFile(openFileDialog1.FileName);
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

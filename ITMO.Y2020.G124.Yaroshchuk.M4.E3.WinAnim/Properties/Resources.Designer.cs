@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader.Properties
+namespace ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ITMO.Y2020.G124.Yaroshchuk.M4.E2.PdfReader.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

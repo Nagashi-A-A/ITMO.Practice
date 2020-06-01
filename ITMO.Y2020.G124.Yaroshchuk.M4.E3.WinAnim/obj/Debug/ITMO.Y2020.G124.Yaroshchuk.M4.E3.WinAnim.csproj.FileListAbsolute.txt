@@ -1,0 +1,9 @@
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim.AniMainForm.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E3.WinAnim.pdb

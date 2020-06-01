@@ -16,3 +16,4 @@ D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart\obj\D
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart.csproj.CoreCompileInputs.cache
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart.exe
 D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E3.Chart.csprojAssemblyReference.cache

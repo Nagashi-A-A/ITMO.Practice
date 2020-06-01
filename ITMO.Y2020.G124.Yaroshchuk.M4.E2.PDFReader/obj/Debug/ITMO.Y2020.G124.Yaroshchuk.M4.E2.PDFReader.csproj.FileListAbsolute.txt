@@ -1,0 +1,3 @@
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PDFReader\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PDFReader.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PDFReader\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PDFReader.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PDFReader\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E2.PDFReader.csproj.CoreCompileInputs.cache

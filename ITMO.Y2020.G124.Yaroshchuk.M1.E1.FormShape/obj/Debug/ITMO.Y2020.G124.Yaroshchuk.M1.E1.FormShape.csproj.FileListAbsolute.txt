@@ -1,0 +1,10 @@
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\bin\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.exe.config
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\bin\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.exe
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\bin\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.pdb
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.FormShape.Form1.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.Properties.Resources.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape.csproj.GenerateResource.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape.csproj.CoreCompileInputs.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.exe
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.pdb
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape.csprojAssemblyReference.cache

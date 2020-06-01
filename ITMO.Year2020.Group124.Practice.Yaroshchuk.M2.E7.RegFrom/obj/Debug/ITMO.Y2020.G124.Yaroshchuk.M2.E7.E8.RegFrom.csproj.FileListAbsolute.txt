@@ -1,0 +1,9 @@
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E7.RegFrom\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E7.RegFrom.exe.config
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E7.RegFrom\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E7.RegFrom.exe
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E7.RegFrom\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E7.RegFrom.pdb
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E7.RegFrom\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E7.RegFrom.RegistrationForm.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E7.RegFrom\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E7.RegFrom.Properties.Resources.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E7.RegFrom\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E7.E8.RegFrom.csproj.GenerateResource.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E7.RegFrom\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E7.E8.RegFrom.csproj.CoreCompileInputs.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E7.RegFrom\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E7.RegFrom.exe
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E7.RegFrom\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E7.RegFrom.pdb

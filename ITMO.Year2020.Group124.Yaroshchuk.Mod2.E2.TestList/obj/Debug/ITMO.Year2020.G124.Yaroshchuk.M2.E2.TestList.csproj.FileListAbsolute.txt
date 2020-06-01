@@ -1,0 +1,9 @@
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E2.TestList\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList.exe.config
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E2.TestList\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E2.TestList\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList.pdb
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E2.TestList\obj\Debug\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E2.TestList.TestList.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E2.TestList\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList.Properties.Resources.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E2.TestList\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M2.E2.TestList.csproj.GenerateResource.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E2.TestList\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M2.E2.TestList.csproj.CoreCompileInputs.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E2.TestList\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E2.TestList\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E2.TestList.pdb

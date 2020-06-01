@@ -1,0 +1,9 @@
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\bin\Debug\ITMO.Y2020.G124.YaroshchukM1.E2.Triangle.exe.config
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\bin\Debug\ITMO.Y2020.G124.YaroshchukM1.E2.Triangle.exe
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\bin\Debug\ITMO.Y2020.G124.YaroshchukM1.E2.Triangle.pdb
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E2.Triangle.FormTriangle.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E2.Triangle.Properties.Resources.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E2.Triangle.csproj.GenerateResource.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E2.Triangle.csproj.CoreCompileInputs.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\obj\Debug\ITMO.Y2020.G124.YaroshchukM1.E2.Triangle.exe
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\obj\Debug\ITMO.Y2020.G124.YaroshchukM1.E2.Triangle.pdb

@@ -1,0 +1,10 @@
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.2.RhombusForm\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm.exe.config
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.2.RhombusForm\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.2.RhombusForm\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm.pdb
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.2.RhombusForm\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk._5._2.RhombusForm.MainForm.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.2.RhombusForm\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.RhombusForm.Properties.Resources.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.2.RhombusForm\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk._5._2.RhombusForm.RhombusForm.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.2.RhombusForm\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M1.E5.2.RhombusForm.csproj.GenerateResource.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.2.RhombusForm\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M1.E5.2.RhombusForm.csproj.CoreCompileInputs.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.2.RhombusForm\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.2.RhombusForm\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.2.RhombusForm.pdb

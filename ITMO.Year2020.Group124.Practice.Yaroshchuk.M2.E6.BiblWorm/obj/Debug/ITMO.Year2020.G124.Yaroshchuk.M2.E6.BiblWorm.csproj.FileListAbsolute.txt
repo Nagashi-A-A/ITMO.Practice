@@ -1,0 +1,9 @@
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E6.BiblWorm\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E6.BiblWorm.exe.config
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E6.BiblWorm\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E6.BiblWorm.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E6.BiblWorm\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E6.BiblWorm.pdb
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E6.BiblWorm\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E6.BiblWorm.BiblWormMainForm.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E6.BiblWorm\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E6.BiblWorm.Properties.Resources.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E6.BiblWorm\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M2.E6.BiblWorm.csproj.GenerateResource.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E6.BiblWorm\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M2.E6.BiblWorm.csproj.CoreCompileInputs.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E6.BiblWorm\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E6.BiblWorm.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E6.BiblWorm\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E6.BiblWorm.pdb

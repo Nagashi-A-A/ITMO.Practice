@@ -1,0 +1,9 @@
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E5.WinContainer\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E5.WinContainer.exe.config
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E5.WinContainer\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E5.WinContainer.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E5.WinContainer\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E5.WinContainer.pdb
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E5.WinContainer\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E5.WinContainer.Form1.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E5.WinContainer\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E5.WinContainer.Properties.Resources.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E5.WinContainer\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M2.E5.WinContainer.csproj.GenerateResource.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E5.WinContainer\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M2.E5.WinContainer.csproj.CoreCompileInputs.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E5.WinContainer\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E5.WinContainer.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.M2.E5.WinContainer\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E5.WinContainer.pdb

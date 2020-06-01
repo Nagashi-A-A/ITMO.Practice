@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">Jey</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">Worst</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">Kirk</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">Wuu</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">Lu</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">Bung</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">Kung</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">Fu</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">Curt</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">Cobain</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+  <Person>
+    <FirstName xmlns="http://www.MyCompany.com">Mark</FirstName>
+    <LastName xmlns="http://www.MyCompany.com">Two</LastName>
+    <Age xmlns="http://www.MyCompany.com">0</Age>
+  </Person>
+</ArrayOfPerson>

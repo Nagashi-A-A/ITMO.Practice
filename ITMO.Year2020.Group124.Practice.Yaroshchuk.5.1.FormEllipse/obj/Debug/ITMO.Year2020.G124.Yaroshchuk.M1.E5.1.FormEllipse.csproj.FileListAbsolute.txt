@@ -1,0 +1,9 @@
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.1.FormEllipse\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse.exe.config
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.1.FormEllipse\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.1.FormEllipse\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse.pdb
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.1.FormEllipse\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk._5._1.FormEllipse.EllipseForm.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.1.FormEllipse\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.FormEllipse.Properties.Resources.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.1.FormEllipse\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M1.E5.1.FormEllipse.csproj.GenerateResource.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.1.FormEllipse\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M1.E5.1.FormEllipse.csproj.CoreCompileInputs.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.1.FormEllipse\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.5.1.FormEllipse\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E5.1.FormEllipse.pdb

@@ -1,0 +1,9 @@
+C:\Users\ms\Desktop\C#WinAppITMO\ITMO.Year2020.Group124.Practice2.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\bin\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle.exe.config
+C:\Users\ms\Desktop\C#WinAppITMO\ITMO.Year2020.Group124.Practice2.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\bin\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle.exe
+C:\Users\ms\Desktop\C#WinAppITMO\ITMO.Year2020.Group124.Practice2.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\bin\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle.pdb
+C:\Users\ms\Desktop\C#WinAppITMO\ITMO.Year2020.Group124.Practice2.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk._2.Triangle.Properties.Resources.resources
+C:\Users\ms\Desktop\C#WinAppITMO\ITMO.Year2020.Group124.Practice2.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle.csproj.GenerateResource.cache
+C:\Users\ms\Desktop\C#WinAppITMO\ITMO.Year2020.Group124.Practice2.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle.csproj.CoreCompileInputs.cache
+C:\Users\ms\Desktop\C#WinAppITMO\ITMO.Year2020.Group124.Practice2.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle.exe
+C:\Users\ms\Desktop\C#WinAppITMO\ITMO.Year2020.Group124.Practice2.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle.pdb
+C:\Users\ms\Desktop\C#WinAppITMO\ITMO.Year2020.Group124.Practice2.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.2.Triangle\obj\Debug\ITMO.Year2020.Group124.Practice.Yaroshchuk._2.Triangle.FormTriangle.resources

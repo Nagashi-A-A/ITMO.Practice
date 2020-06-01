@@ -1,0 +1,9 @@
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\bin\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.exe.config
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\bin\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\bin\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.pdb
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.FormShape.Form1.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.Properties.Resources.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M1.E1.FormShape.csproj.GenerateResource.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M1.E1.FormShape.csproj.CoreCompileInputs.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M1.E1.FormShape\obj\Debug\ITMO.Year2020.Group124.Practice1.Yaroshchuk.FormShape.pdb

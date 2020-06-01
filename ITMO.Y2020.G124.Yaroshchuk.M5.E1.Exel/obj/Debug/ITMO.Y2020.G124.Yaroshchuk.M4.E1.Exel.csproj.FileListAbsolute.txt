@@ -1,0 +1,14 @@
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\obj\Debug\Interop.ExcelAdaptorLib.dll
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\obj\Debug\Interop.VSTOEE100.dll
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\obj\Debug\Interop.WordAdapterLib.dll
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E1.Exel.csproj.ResolveComReference.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.Properties.Resources.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E1.Exel.csproj.GenerateResource.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E1.Exel.csproj.CoreCompileInputs.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.exe.config
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.exe
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.pdb
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.exe
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.pdb
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M4.E1.Exel.csprojAssemblyReference.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M5.E1.Exel.ExcelFrom.resources

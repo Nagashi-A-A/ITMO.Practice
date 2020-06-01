@@ -1,0 +1,15 @@
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.exe.config
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.exe
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.pdb
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\bin\Debug\en-US\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.resources.dll
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.MainWinLangForm.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.Properties.Resources.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.MainWinLangForm.en-US.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.csproj.GenerateResource.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.csproj.CoreCompileInputs.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\obj\Debug\en-US\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.resources.dll
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.exe
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.pdb
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\bin\Debug\ru-RU\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.resources.dll
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.MainWinLangForm.ru-RU.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage\obj\Debug\ru-RU\ITMO.Y2020.G124.Yaroshchuk.M7.E5.WinLanguage.resources.dll

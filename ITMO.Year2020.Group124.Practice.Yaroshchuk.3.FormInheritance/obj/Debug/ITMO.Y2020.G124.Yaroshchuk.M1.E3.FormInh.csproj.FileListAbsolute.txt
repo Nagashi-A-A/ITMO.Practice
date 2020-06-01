@@ -1,0 +1,11 @@
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.3.FormInheritance\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.exe.config
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.3.FormInheritance\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.exe
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.3.FormInheritance\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.pdb
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.3.FormInheritance\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E3.FormInh.csprojAssemblyReference.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.3.FormInheritance\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.FormTriangle.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.3.FormInheritance\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.Properties.Resources.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.3.FormInheritance\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.SecondForm.resources
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.3.FormInheritance\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E3.FormInh.csproj.GenerateResource.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.3.FormInheritance\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M1.E3.FormInh.csproj.CoreCompileInputs.cache
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.3.FormInheritance\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.exe
+D:\GitHub\ITMO.Practice.WinApps\.vs\ITMO.Practice.WinApps\v16\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Practice.Yaroshchuk.3.FormInheritance\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.FormInh.pdb

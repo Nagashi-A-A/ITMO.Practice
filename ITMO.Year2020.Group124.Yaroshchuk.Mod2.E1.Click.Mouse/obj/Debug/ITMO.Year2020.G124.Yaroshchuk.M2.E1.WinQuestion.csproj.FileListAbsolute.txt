@@ -1,0 +1,9 @@
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E1.Click.Mouse\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E1.Click.Mouse.exe.config
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E1.Click.Mouse\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E1.Click.Mouse.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E1.Click.Mouse\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E1.Click.Mouse.pdb
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E1.Click.Mouse\obj\Debug\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E1.Click.Mouse.Form1.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E1.Click.Mouse\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E1.Click.Mouse.Properties.Resources.resources
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E1.Click.Mouse\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M2.E1.WinQuestion.csproj.GenerateResource.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E1.Click.Mouse\obj\Debug\ITMO.Year2020.G124.Yaroshchuk.M2.E1.WinQuestion.csproj.CoreCompileInputs.cache
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E1.Click.Mouse\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E1.Click.Mouse.exe
+C:\Users\ms\Desktop\ITMO.Y2020.G124.Yaroshchuk\ITMO.Year2020.Group124.Yaroshchuk.Mod2.E1.Click.Mouse\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M2.E1.Click.Mouse.pdb

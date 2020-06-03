@@ -1,0 +1,14 @@
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\obj\Debug\MainWindow.g.cs
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\obj\Debug\App.g.cs
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.WpfTest_MarkupCompile.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.WpfTest_MarkupCompile.lref
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.WpfTest.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.WpfTest.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\bin\Debug\ITMO.Y2020.G124.Yaroshchuk.WpfTest.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\obj\Debug\MainWindow.baml
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.WpfTest.g.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.WpfTest.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.WpfTest.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.WpfTest.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.WpfTest.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.WpfTest\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.WpfTest.pdb

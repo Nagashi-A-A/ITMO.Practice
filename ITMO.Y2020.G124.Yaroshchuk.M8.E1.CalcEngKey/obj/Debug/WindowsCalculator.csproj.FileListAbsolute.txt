@@ -1,0 +1,10 @@
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\obj\Debug\ResolveAssemblyReference.cache
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\obj\Debug\SimpleCalculator.CalcUI.resources
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\bin\Debug\WindowsCalculator.exe
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\bin\Debug\WindowsCalculator.pdb
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\bin\Debug\CalculatorEngine.dll
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\bin\Debug\CalculatorEngine.pdb
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\obj\Debug\WindowsCalculator.exe
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\obj\Debug\WindowsCalculator.pdb
+E:\WinC#\Примеры_демо\Модуль_1\Starter_Calc\obj\Debug\WindowsCalculator.exe
+E:\WinC#\Примеры_демо\Модуль_1\Starter_Calc\obj\Debug\WindowsCalculator.pdb

@@ -1,0 +1,10 @@
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\CalculatorEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+D:\Лим\for lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Копия Mod09\Mod09_01\Starter\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\CalculatorEngine\obj\Debug\CalculatorEngine.pdb

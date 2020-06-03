@@ -1,0 +1,11 @@
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\bin\Debug\WindowsCalculator.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\bin\Debug\WindowsCalculator.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M8.E2.WindowsCalculator.csprojAssemblyReference.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\obj\Debug\SimpleCalculator.CalcUI.resources
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M8.E2.WindowsCalculator.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M8.E2.WindowsCalculator.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\obj\Debug\WindowsCalculator.exe
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\obj\Debug\WindowsCalculator.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\bin\Debug\CalculatorEngine.dll
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\bin\Debug\CalculatorEngine.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M8.E2.WindowsCalculator.csproj.CopyComplete

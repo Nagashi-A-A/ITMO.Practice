@@ -1,0 +1,5 @@
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\CalculatorEngine\obj\Debug\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalculatorEngine.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+D:\GitHub\Nagashi-A-A\ITMO.Practice\ITMO.Y2020.G124.Yaroshchuk.M8.E1.CalcEngKey\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
